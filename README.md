@@ -20,6 +20,6 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 
 ### Other Stuffs
 
-<BEGIN YOUTUBE-CARDS>
+<BEGIN youtube-cards>
 
-<END YOUTUBE-CARDS>
+<END youtube-cards>
