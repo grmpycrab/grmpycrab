@@ -18,7 +18,7 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 
 <hr style="border:1px solid gray">
 
-### Other Stuffs
+### Remixes and Other Stuffs
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
