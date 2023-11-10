@@ -16,7 +16,7 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 ### Other Stuffs
 
