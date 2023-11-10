@@ -20,4 +20,4 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 
 ### Other Stuffs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZQkM0sCkWg?si=NjV6qczlDZILzK_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<li src = "https://youtu.be/3ZQkM0sCkWg?si=QysTWO5tqMFLmWPw">
