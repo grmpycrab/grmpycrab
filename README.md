@@ -15,3 +15,9 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40 height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
+
+<hr style="border:2px solid gray">
+
+### Other Stuffs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZQkM0sCkWg?si=NjV6qczlDZILzK_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
