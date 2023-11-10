@@ -8,7 +8,7 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 ---
 ### My Programming Languages
 
-<p align = "left">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40""/>
@@ -20,4 +20,4 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 
 ### Other Stuffs
 
-<li src = "https://youtu.be/3ZQkM0sCkWg?si=QysTWO5tqMFLmWPw">
+<a src="https://youtu.be/3ZQkM0sCkWg?si=QysTWO5tqMFLmWPw">
