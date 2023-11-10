@@ -1,5 +1,6 @@
 ### grmpycrab 🦀
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/New%20Moon.webp" alt="New Moon" width="25" height="25" />
 
 **Simple Human (Programmer, Producer, Musician)**
 
