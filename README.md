@@ -42,10 +42,5 @@ I'm **20 years old** and, as you can tell from my username, a **Cancer♋ (born 
 ---
 
 🔗 **Connect with me:**  
-- **GitHub:** [grmpycrab](https://github.com/grmpycrab)  
-- **YouTube:** [grmpycrab](https://www.youtube.com/@grmpycrab](https://youtube.com/@grmpycrab_music?si=BQx568nSzytdXusn)  
-- **Spotify:** [My Music](https://open.spotify.com/artist/71otXr3VkUPdqCLo2yWTw7)  
-
----
-
-This should work perfectly for your GitHub profile! Let me know if you want any tweaks. 🚀
+- **YouTube:** [Harly](https://youtube.com/@grmpycrab_music?si=BQx568nSzytdXusn)  
+- **Spotify:** [Keynt Harly](https://open.spotify.com/artist/71otXr3VkUPdqCLo2yWTw7)  
