@@ -24,6 +24,8 @@ I'm an IT student at Davao Oriental State University currently in my sophomore y
 
 ### Remixes and Other Stuffs
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/71otXr3VkUPdqCLo2yWTw7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![September 30, 2023](https://ytcards.demolab.com/?id=Rk4yRT0F0aA&title=September+30%2C+2023&lang=en&timestamp=1696035268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "September 30, 2023")](https://www.youtube.com/watch?v=Rk4yRT0F0aA)
 [![double take but its more relaxing](https://ytcards.demolab.com/?id=3ZQkM0sCkWg&title=double+take+but+its+more+relaxing&lang=en&timestamp=1692266541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "double take but its more relaxing")](https://www.youtube.com/watch?v=3ZQkM0sCkWg)
