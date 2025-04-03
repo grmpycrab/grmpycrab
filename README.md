@@ -1,11 +1,9 @@
 ## 🦀 grmpycrab  
 **Simple Human (Programmer, Producer, Musician)**  
 
-I'm an IT student at **Davao Oriental State University**, currently in my **sophomore year (2023 - 2024)**. One of my biggest dreams is to become one of the most successful programmers in the world.  
+I'm an IT student at **Davao Oriental State University**, currently in my **junior year (2024 - 2025)**. One of my biggest dreams is to become a successful programmer someday or maybe a well-known artist in the world.  
 
 I also produce music 🎵, so yeah, I make beats, remixes, and original tracks. You can check out my work on YouTube and Spotify.  
-
-I'm **20 years old** and, as you can tell from my username, a **Cancer♋ (born on June 27, 2003).**  
 
 ---
 
