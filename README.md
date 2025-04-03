@@ -42,10 +42,3 @@ I'm **20 years old** and, as you can tell from my username, a **Cancer♋ (born 
 
 
 ---
-
-🔗 **Connect with me:**  
-- **YouTube:** [Harly](https://youtube.com/@grmpycrab_music?si=BQx568nSzytdXusn)  
-- **Spotify:** [Keynt Harly](https://open.spotify.com/artist/71otXr3VkUPdqCLo2yWTw7)
-  
-
----
