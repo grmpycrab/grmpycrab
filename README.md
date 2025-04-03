@@ -28,11 +28,11 @@ I'm **20 years old** and, as you can tell from my username, a **Cancer♋ (born 
 ### 🎵 Remixes and Other Stuffs  
 
 #### **Spotify**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/71otXr3VkUPdqCLo2yWTw7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 #### **YouTube**  
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Harly - Gusto (Official Lyric Video)](https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Gusto&lang=en&timestamp=1696035268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=ZlFN1XOAMpI)
+[![Harly - Gusto (Official Lyric Video)](https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Gusto&lang=en&timestamp=1741892930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=ZlFN1XOAMpI)
 [![Harly - Drained. (official Audio))](https://ytcards.demolab.com/?id=Ql5IpoSy7qU&title=Drained.&lang=en&timestamp=1696035268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=Ql5IpoSy7qU)
 [![double take but its more relaxing](https://ytcards.demolab.com/?id=3ZQkM0sCkWg&title=double+take+but+its+more+relaxing&lang=en&timestamp=1692266541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=3ZQkM0sCkWg)
 [![Harly_-_Delight](https://ytcards.demolab.com/?id=4SF15vjMUJs&title=Harly_-_Delight&lang=en&timestamp=1676183761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=5)](https://www.youtube.com/watch?v=4SF15vjMUJs)
