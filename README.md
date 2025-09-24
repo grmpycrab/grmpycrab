@@ -1,4 +1,8 @@
 # 🦀 grmpycrab  
+<div align="center">
+  <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="Banner" width="100%">
+</div>
+
 ### **Programmer • Producer • Musician**
 
 <div align="center">
