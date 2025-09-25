@@ -78,7 +78,7 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 ---
 
-## **Stats**
+## **My Stats**
 
 <div align="center">
 
