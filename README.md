@@ -78,7 +78,15 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 ---
 
+## **My Stats**
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grmpycrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grmpycrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff)
+
+</div>
 
 ---
 
