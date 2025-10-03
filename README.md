@@ -95,6 +95,7 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@grmpycrab)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/71otXr3VkUPdqCLo2yWTw7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grmpycrab)
+[![Kattis](https://img.shields.io/badge/Kattis-00A0A0?style=for-the-badge&logo=kattis&logoColor=white)](https://open.kattis.com/users/YOUR_USERNAME)
 
 </div>
 
