@@ -120,6 +120,18 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
     <img src="https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Keynt+Harly+-+Gusto+%28Official+Lyric+Video%29&lang=en&timestamp=1741605822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Keynt Harly - Gusto (Official Lyric Video)" title="Keynt Harly - Gusto (Official Lyric Video)">
   </picture>
 </a>
+<a href="https://www.youtube.com/shorts/5iHw7XGxHdw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iHw7XGxHdw&title=December+31%2C+2024&lang=en&timestamp=1735577252&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=5iHw7XGxHdw&title=December+31%2C+2024&lang=en&timestamp=1735577252&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="December 31, 2024" title="December 31, 2024">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=Ke11-L1M1Mo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ke11-L1M1Mo&title=Harly+-+Tadhana+by+Up+Dharma+Down+%7C+But+Future+Bass%3F&lang=en&timestamp=1715148260&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=Ke11-L1M1Mo&title=Harly+-+Tadhana+by+Up+Dharma+Down+%7C+But+Future+Bass%3F&lang=en&timestamp=1715148260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Harly - Tadhana by Up Dharma Down | But Future Bass?" title="Harly - Tadhana by Up Dharma Down | But Future Bass?">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 
 </div>
