@@ -1,27 +1,26 @@
 import requests
 import re
+import os
 
 # Your Monkeytype username
 USERNAME = "grmpycrab"
 
+# Get APE key from environment variable
+APE_KEY = os.environ.get('MONKEYTYPE_APE_KEY', '')
+
 def get_monkeytype_stats():
     """Fetch Monkeytype stats from API"""
     try:
-        # First, check if user exists and get UID
-        check_url = f"https://api.monkeytype.com/users/checkName/{USERNAME}"
-        response = requests.get(check_url)
+        if not APE_KEY:
+            print("Warning: No APE key found. Stats may not be accessible.")
         
-        if response.status_code != 200:
-            print(f"Error: Unable to fetch user data (Status: {response.status_code})")
-            return None
-            
-        # Get personal bests from leaderboard data
-        # Note: You may need to authenticate for private profiles
+        # Set up headers with authentication
         headers = {
+            'Authorization': f'ApeKey {APE_KEY}',
             'User-Agent': 'Mozilla/5.0'
         }
         
-        # Try to get public profile data
+        # Get personal bests
         profile_url = f"https://api.monkeytype.com/users/{USERNAME}/profile"
         profile_response = requests.get(profile_url, headers=headers)
         
