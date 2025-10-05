@@ -75,7 +75,7 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 [![Monkeytype](https://img.shields.io/badge/⌨️_View_Profile-Monkeytype-E2B714?style=for-the-badge&logo=keyboard&logoColor=black)](https://monkeytype.com/profile/grmpycrab)
 
-**Personal Best:** `77 WPM` • **Average:** `67 WPM` • **Accuracy:** `95%`
+**Personal Best:** `0 WPM` • **Average:** `0 WPM` • **Accuracy:** `0%`
 
 </div>
 
@@ -95,11 +95,8 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 <div align="center">
 
-[![I do](https://ytcards.demolab.com/?id=qe6hiQmX3o8&title=Keynt+Harly+-+I+do&lang=en&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=10)](https://www.youtube.com/watch?v=qe6hiQmX3o8)
-[![You](https://ytcards.demolab.com/?id=LZYvq1TzaEs&title=Keynt+Harly+-+You&lang=en&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=10)](https://www.youtube.com/watch?v=LZYvq1TzaEs)
-
-[![Best Part Cover](https://ytcards.demolab.com/?id=zO8EGgR7w9c&title=Best+Part+(Cover)&lang=en&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=10)](https://www.youtube.com/watch?v=zO8EGgR7w9c)
-[![Gusto](https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Gusto&lang=en&timestamp=1741892930&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=10)](https://www.youtube.com/watch?v=ZlFN1XOAMpI)
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 </div>
 
