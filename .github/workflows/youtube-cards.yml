@@ -24,7 +24,7 @@ jobs:
         with:
           channel_id: UCGq5yQ8jayw0Hb_ihViZdXQ
           comment_tag_name: YOUTUBE-CARDS
-          show_duration: true
+          show_duration: false
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
           theme_context_dark: '{ "background_color": "#181825", "title_color": "#cdd6f4", "stats_color": "#a6adc8" }'
           max_title_lines: 2
