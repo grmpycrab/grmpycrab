@@ -110,6 +110,7 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/71otXr3VkUPdqCLo2yWTw7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grmpycrab)
 [![Kattis](https://img.shields.io/badge/Kattis-00A0A0?style=for-the-badge&logo=kattis&logoColor=white)](https://open.kattis.com/users/keynt-harly-adol)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=black)](https://monkeytype.com/profile/grmpycrab)
 
 </div>
 
