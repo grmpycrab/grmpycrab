@@ -30,6 +30,8 @@ jobs:
           pip install requests
           
       - name: Update Monkeytype Stats
+        env:
+          MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
         run: python update_monkeytype.py
         
       - name: Commit and push if changed
