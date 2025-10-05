@@ -96,6 +96,30 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=qe6hiQmX3o8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qe6hiQmX3o8&title=Keynt+Harly+-+I+do+%28Official+Lyric+Video%29&lang=en&timestamp=1753238451&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=qe6hiQmX3o8&title=Keynt+Harly+-+I+do+%28Official+Lyric+Video%29&lang=en&timestamp=1753238451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Keynt Harly - I do (Official Lyric Video)" title="Keynt Harly - I do (Official Lyric Video)">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=LZYvq1TzaEs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LZYvq1TzaEs&title=Keynt+Harly+-+You+%28Official+Lyric+Video%29&lang=en&timestamp=1748937726&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=LZYvq1TzaEs&title=Keynt+Harly+-+You+%28Official+Lyric+Video%29&lang=en&timestamp=1748937726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Keynt Harly - You (Official Lyric Video)" title="Keynt Harly - You (Official Lyric Video)">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=zO8EGgR7w9c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zO8EGgR7w9c&title=Keynt+Harly+-+Best+Part+Cover&lang=en&timestamp=1744527056&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=zO8EGgR7w9c&title=Keynt+Harly+-+Best+Part+Cover&lang=en&timestamp=1744527056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Keynt Harly - Best Part Cover" title="Keynt Harly - Best Part Cover">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ZlFN1XOAMpI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Keynt+Harly+-+Gusto+%28Official+Lyric+Video%29&lang=en&timestamp=1741605822&background_color=%23181825&title_color=%23cdd6f4&stats_color=%23a6adc8&max_title_lines=2&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=ZlFN1XOAMpI&title=Keynt+Harly+-+Gusto+%28Official+Lyric+Video%29&lang=en&timestamp=1741605822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5" alt="Keynt Harly - Gusto (Official Lyric Video)" title="Keynt Harly - Gusto (Official Lyric Video)">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 
 </div>
