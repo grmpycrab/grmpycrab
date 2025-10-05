@@ -29,7 +29,7 @@ jobs:
           theme_context_dark: '{ "background_color": "#181825", "title_color": "#cdd6f4", "stats_color": "#a6adc8" }'
           max_title_lines: 2
           output_type: html
-          max_videos: 4
+          max_videos: 6
           
       - name: Commit and push if changed
         run: |
