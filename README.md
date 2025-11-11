@@ -52,21 +52,6 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 </div>
 
----
-## **Competitive Programming**
-
-<div align="center">
-
-### **LeetCode Stats**
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/grmpycrab?theme=dark&font=Fira%20Code&ext=heatmap)
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/grmpycrab)
-
-</div>
-
----
-
 ## **Typing Speed**
 
 <div align="center">
