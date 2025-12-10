@@ -60,7 +60,7 @@ When I'm not coding, you'll find me in the studio producing beats, crafting remi
 
 [![Monkeytype](https://img.shields.io/badge/⌨️_View_Profile-Monkeytype-E2B714?style=for-the-badge&logo=keyboard&logoColor=black)](https://monkeytype.com/profile/grmpycrab)
 
-**Personal Best:** `77 WPM` • **Average:** `67 WPM` • **Accuracy:** `95%`
+**Personal Best:** `77 WPM` • **Average:** `67 WPM` • **Accuracy:** `96%`
 
 </div>
 
