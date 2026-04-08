@@ -13,14 +13,6 @@
 
 ---
 
-## **About Me**
-
-I'm a **4th year IT student** at **Davao Oriental State University** (2025 - 2026), passionate about building innovative solutions through code and creating captivating music. Currently pursuing my dream of becoming a successful programmer and well-known artist in the world.
-
-When I'm not coding, you'll find me in the studio producing beats, crafting remixes, and composing original tracks that tell stories through sound.
-
----
-
 <div align="center">
   
 **Fear with progress is better than comfort with none.**
