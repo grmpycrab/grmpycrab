@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://grmpcrab.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://grmpycrab.vercel.app)
 
 </div>
 
