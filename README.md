@@ -3,12 +3,13 @@
 <div align="center">
   <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="Banner" width="100%">
 </div>
-<h3 align="center">
+<h3>
   Programmer • Producer • Musician
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://grmpcrab.vercel.app" target="_blank">
-    🌐 Portfolio
-  </a>
+  <span style="float:right;">
+    <a href="https://grmpcrab.vercel.app" target="_blank">
+      | Portfolio
+    </a>
+  </span>
 </h3>
 
 <div align="center">
