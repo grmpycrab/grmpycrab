@@ -4,7 +4,7 @@
   <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="Banner" width="100%">
 </div>
 
-### **Programmer • Producer • Musician** <href=grmpcrab.vercel.app>###
+### **Programmer • Producer • Musician**
 
 <div align="center">
   
@@ -16,6 +16,9 @@
 <div align="center">
   
 **Fear with progress is better than comfort with none.**
+<a href="https://grmpcrab.vercel.app" target="_blank">
+    Portfolio
+  </a>
 
 </div>
 
