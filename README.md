@@ -3,14 +3,9 @@
 <div align="center">
   <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="Banner" width="100%">
 </div>
-<h3>
-  Programmer • Producer • Musician
-  <span style="float:right;">
-    <a href="https://grmpcrab.vercel.app" target="_blank">
-      | Portfolio
-    </a>
-  </span>
-</h3>
+
+## **Programmer • Producer • Musician**
+  
 
 <div align="center">
   
@@ -22,6 +17,12 @@
 <div align="center">
   
 **Fear with progress is better than comfort with none.**
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://grmpcrab.vercel.app)
 
 </div>
 
