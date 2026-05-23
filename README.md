@@ -4,7 +4,7 @@
   <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="Banner" width="100%">
 </div>
 
-### **Programmer • Producer • Musician**
+### **Programmer • Producer • Musician** <href]grmpcrab.vercel.app>###
 
 <div align="center">
   
@@ -20,9 +20,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
- **PORTFOLIO** | grmpycrab.vercel.app
- 
-</div>
