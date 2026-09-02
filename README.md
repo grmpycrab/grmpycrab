@@ -1,22 +1,22 @@
-# hi, im grmpycrab!
-
 <div align="center">
   <img src="https://github.com/grmpycrab/grmpycrab/blob/main/img-src/banner.png" alt="grmpycrab banner" width="100%">
 </div>
 
 ---
 
-I create software, interfaces, teach what I know, and compose music when I should be sleeping.
+<div align="center">
 
-I am an information technology graduate and developer from Mati, Davao Oriental, Philippines, who is interested in the intersection of technology, design, and creativity. I enjoy transforming ideas into products that people can use, such as mobile applications and web systems, dashboards, visual identities, and whatever strange idea strikes me at nite.
+### SOFTWARE DEVELOPER · GRAPHIC DESIGNER · MUSIC PRODUCER
 
-My work focuses on software development, UI/UX, mobile and web technologies, and visual design. I especially enjoy working with Flutter, React, Angular, PHP, CodeIgniter, Firebase, and the JavaScript/TypeScript ecosystems.
+**I build software, design interfaces, and make music when I should probably be sleeping.**
 
-Aside from development, I write and produce music as Keynt Harly (follow me on Spotify). I write, arrange, record, produce, and mix in a DAW, treating it like another development environment, with the exception that bugs are sometimes referred to as creative decisions.
+</div>
 
-I also enjoy branding, typography, visual design, writing, and education, so my projects do not always fall neatly into a single category.
+---
 
-And, frankly, that's probably the point.
+I build mobile and web applications, design interfaces and visual identities, and explore the space where **technology meets creativity**. Outside of development, I write, produce, record, and mix music as **Keynt Harly**. I also enjoy branding, typography, visual design, writing, and teaching.
+
+I like building things that sit somewhere between **engineering and expression**. And, honestly, that's probably the point.
 
 ---
 
